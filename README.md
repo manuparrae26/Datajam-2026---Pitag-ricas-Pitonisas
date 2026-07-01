@@ -61,8 +61,6 @@ rruta_base <- "ruta/a/su/carpeta/"
 
 3. Ejecute el script completo. Si todos los archivos se encuentran en la ubicación correcta, los resultados generados serán equivalentes a los disponibles en la carpeta /outputs del repositorio.
 
-
-Nota: si no tiene acceso a los archivos geoespaciales originales, puede empezar desde la Parte 4 del script usando el archivo df_final_sedes_seguridad.xlsx disponible en /outputs.
 ---
 
 ## Estructura del repositorio
