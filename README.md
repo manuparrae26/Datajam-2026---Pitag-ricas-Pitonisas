@@ -5,9 +5,9 @@
 
 ## Descripción del problema abordado
 
-En Bogotá se observan desigualdades en los resultados Saber 11 asociadas a condiciones adversas del entorno escolar —como el índice de violencia, el índice de factores de riesgo relacionados con seguridad, y las tasas de deserción y reprobación agregadas por localidad— que afectan a estudiantes de educación media de colegios oficiales durante el año 2024.
+En Bogotá se observan desigualdades en los resultados Saber 11 asociadas a condiciones adversas del entorno escolar (como el índice de violencia, el índice de factores de riesgo relacionados con seguridad, y las tasas de deserción y reprobación agregadas por localidad) que afectan a estudiantes de educación media de colegios oficiales durante el año 2024.
 
-Este análisis examina si las características y recursos internos de las sedes educativas —disponibilidad de personal, tipo de jornada, dedicación horaria y dotación TIC— pueden amortiguar el efecto de dichos factores de riesgo sobre el desempeño académico medido por el puntaje global Saber 11.
+Este análisis examina si las características y recursos internos de las sedes educativas (disponibilidad de personal, tipo de jornada, dedicación horaria y dotación TIC) pueden amortiguar el efecto de dichos factores de riesgo sobre el desempeño académico medido por el puntaje global Saber 11.
 
 **Pregunta de investigación:** ¿En qué medida las características institucionales de las sedes educativas moderan el efecto de las condiciones territoriales del entorno sobre el desempeño de los colegios oficiales de Bogotá en las pruebas Saber 11 (2024)?
 
