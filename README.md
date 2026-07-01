@@ -22,8 +22,8 @@ Este análisis examina si las características y recursos internos de las sedes 
 | 3 | SDSCJ — Incidentes C4 / Línea 123 | Incidentes reportados por localidad 2015-2026 (CSV) | [datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/incidentes) |
 | 4 | ICFES — Saber 11 2024-2 | Resultados agregados por sede educativa (GeoPackage) | [icfes.gov.co](https://www.icfes.gov.co) |
 | 5 | DANE — Proyecciones de población Bogotá 2018-2035 | Población por localidad 2024 (Excel) | [dane.gov.co](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion/proyecciones-de-poblacion-bogota) |
-| 6 | Tasa de deserción escolar oficial | Deserción por localidad (GeoPackage) | [datosabiertos.bogota.gov.co]([https://datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/tasa-de-desercion-escolar-en-colegios-oficiales-por-localidad-bogota-d-c)) |
-| 7 | Tasa de reprobación escolar oficial | Reprobación por localidad (GeoPackage) | [datosabiertos.bogota.gov.co]([https://datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/tasa-de-reprobacion-escolar-en-colegios-oficiales-por-localidad-bogota-d-c)) |
+| 6 | Tasa de deserción escolar oficial | Deserción por localidad (GeoPackage) | [datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/tasa-de-desercion-escolar-en-colegios-oficiales-por-localidad-bogota-d-c) |
+| 7 | Tasa de reprobación escolar oficial | Reprobación por localidad (GeoPackage) | [datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/tasa-de-reprobacion-escolar-en-colegios-oficiales-por-localidad-bogota-d-c) |
 | 8 | DANE — Poblaciones diferenciales | Alumnos con discapacidad, desplazados y grupos étnicos por sede | [microdatos.dane.gov.co](https://microdatos.dane.gov.co/index.php/catalog/906) |
 
 Ver instrucciones detalladas de descarga en [`/data/fuentes.md`](data/fuentes.md).
