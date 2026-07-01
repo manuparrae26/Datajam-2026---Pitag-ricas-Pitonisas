@@ -52,15 +52,6 @@ El análisis se desarrolló en ocho etapas documentadas en el script principal:
 
 ---
 
-## Principales hallazgos
-
-1. El índice de entorno escolar (C4) tiene un efecto negativo y significativo sobre el ICFES al controlar por composición estudiantil (β = −4.33, p = 0.01).
-2. Las sedes con jornada única tienen en promedio 7.2 puntos más de ICFES que las de otras jornadas (p < 0.001), efecto directo más fuerte del análisis.
-3. El ratio de docentes de aula modera significativamente el efecto de la violencia estructural (β_inter = −1.96, p = 0.017): sedes con más docentes disponibles por estudiante sufren menos el impacto del entorno violento.
-4. La proporción de estudiantes de grupos étnicos es el control sociodemográfico más consistente en todos los modelos (β = −3.87, p < 0.001).
-
----
-
 ##Instrucciones para ejecutar el código
 
 1. Descargue las bases de datos siguiendo las instrucciones del archivo fuentes.md ubicado en la carpeta /data de este repositorio. Guarde todos los archivos en una carpeta local de su equipo.
