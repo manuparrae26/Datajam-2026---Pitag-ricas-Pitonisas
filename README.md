@@ -77,7 +77,7 @@ Los resultados iniciales se analizaron a nivel de sede educativa, considerando u
 ## Instrucciones para ejecutar el código
 
 1. Descargue las bases de datos siguiendo las instrucciones del archivo fuentes.md ubicado en la carpeta /data de este repositorio. Guarde todos los archivos en una carpeta local de su equipo.
-2. Descargue el script analisis_datajam_completo.R ubicado en la carpeta /scripts. Ábralo en RStudio y modifique la variable ruta_base (línea 50) para que corresponda a la ruta de la carpeta donde guardó los datos:
+2. Descargue el script analisis_datajam_completo.R ubicado en la carpeta /scripts. Ábralo en RStudio y modifique la variable ruta_base para que corresponda a la ruta de la carpeta donde guardó los datos:
 
 rruta_base <- "ruta/a/su/carpeta/"
 
