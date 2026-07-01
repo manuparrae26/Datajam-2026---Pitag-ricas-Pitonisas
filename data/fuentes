@@ -1,0 +1,22 @@
+# Fuentes de datos
+
+Los archivos de datos originales no están incluidos en el repositorio por su tamaño.
+Los descargamos desde los portales oficiales indicados, todos son de dominio público (Datos Abiertos / DANE)
+
+---
+
+## Archivos necesarios para correr el script completo (Partes 1–8)
+
+| Archivo | Fuente | Enlace |
+|---|---|---|
+| `SDSCJ01_dai_geojson/` | Delito de Alto Impacto — SDSCJ | [datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/delito-de-alto-impacto-bogota-d-c) |
+| `SDSCJ03_LLAMADASC4.csv` | Incidentes C4 / Línea 123 — SDSCJ | [datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/incidentes) |
+| `guiatipificacionincidentes.csv` | Guía de tipificación C4 — SDSCJ | Mismo portal anterior |
+| `DANE01_EDUFORMAL24/CSV/` | Educación Formal 2024 — DANE | [microdatos.dane.gov.co](https://microdatos.dane.gov.co/index.php/catalog/906) |
+| `pruebassaber11_2024.gpkg` | Resultados Saber 11 2024-2 — ICFES | [icfes.gov.co](https://www.icfes.gov.co/evaluaciones-icfes/saber-11/otros-resultados-examen-saber-11) |
+| `poblacionbog.xlsx` | Proyecciones de población — DANE | [dane.gov.co](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion) |
+| `tdesercionof.gpkg` | Tasa de deserción escolar | [datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/tasa-de-desercion-escolar-en-colegios-oficiales-por-localidad-bogota-d-c) |
+| `treprobacionof.gpkg` | Tasa de reprobación escolar | [datosabiertos.bogota.gov.co](https://datosabiertos.bogota.gov.co/dataset/tasa-de-reprobacion-escolar-en-colegios-oficiales-por-localidad-bogota-d-c) |
+| `Alumnos_con_discapacidad...CSV` | Poblaciones diferenciales — DANE | [microdatos.dane.gov.co](https://microdatos.dane.gov.co/index.php/catalog/906) |
+| `Alumnos_desplazados...CSV` | Poblaciones diferenciales — DANE | Mismo portal anterior |
+| `Alumnos_pertenecientes_a_grupos_etnicos...CSV` | Poblaciones diferenciales — DANE | Mismo portal anterior |
