@@ -69,11 +69,10 @@ rruta_base <- "ruta/a/su/carpeta/"
 /data
   fuentes.md                    # instrucciones de descarga de cada dataset
 /scripts
-  analisis_datajam_completo.R   # script unificado de análisis (Partes 1 a 8)
+  analisis_datajam_completo.R   # script unificado de análisis 
 /outputs
   BASE_POWERBI.xlsx             # base consolidada para Power BI (una fila por sede)
   resultados_estadisticos.xlsx  # regresiones y moderaciones
-  df_final_sedes_seguridad.xlsx # base intermedia (punto de entrada alternativo)
 README.md
 LICENSE
 ```
