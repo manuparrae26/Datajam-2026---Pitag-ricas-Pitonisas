@@ -52,6 +52,10 @@ El análisis se desarrolló en ocho etapas documentadas en el script principal:
 
 ---
 
+## Metodología general del análisis
+
+---
+
 ##Instrucciones para ejecutar el código
 
 1. Descargue las bases de datos siguiendo las instrucciones del archivo fuentes.md ubicado en la carpeta /data de este repositorio. Guarde todos los archivos en una carpeta local de su equipo.
