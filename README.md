@@ -74,6 +74,18 @@ Los resultados iniciales se analizaron a nivel de sede educativa, considerando u
 
 ---
 
+### Resultados principales del modelo
+
+Los resultados del análisis muestran que las brechas en los puntajes Saber 11 no deben entenderse únicamente como diferencias individuales entre estudiantes o sedes educativas, sino como el resultado de una interacción entre condiciones del entorno territorial y capacidades institucionales de las sedes. En particular, el ejercicio de moderación estadística permitió identificar qué características internas de las sedes pueden modificar la relación entre factores de riesgo —como violencia estructural, deserción y reprobación agregadas por localidad— y el desempeño académico medido a través del puntaje global Saber 11.
+
+El hallazgo más robusto del modelo es la interacción entre el Índice de Violencia Estructural y el Índice TIC. Esta interacción fue positiva, estadísticamente significativa y clasificó como una mejora fuerte del modelo. En términos técnicos, la incorporación de la interacción aumentó el R² ajustado de 0,098 a 0,136, redujo el AIC en 10,5 puntos y presentó un valor p de 0,001. Esto sugiere que las condiciones TIC no solo deben leerse como dotación tecnológica, sino como una capacidad institucional que puede contribuir a sostener resultados académicos en contextos territoriales adversos.
+
+Un segundo resultado relevante es la interacción entre la tasa de deserción agregada por localidad y el Índice TIC. Esta interacción también fue positiva, estadísticamente significativa y clasificó como una mejora fuerte del modelo. Esto indica que, en territorios con mayores fragilidades de permanencia educativa, las sedes con mejores condiciones TIC presentan una relación menos desfavorable entre el contexto territorial y el desempeño académico. En consecuencia, la permanencia educativa y el logro académico no dependen únicamente de las condiciones externas del territorio, sino también de los recursos y capacidades institucionales disponibles en las sedes.
+
+Un tercer hallazgo significativo corresponde a la interacción entre el Índice de Violencia Estructural y el ratio estudiante/docente de aula. En este caso, la interacción fue negativa y estadísticamente significativa. Dado que el indicador expresa la relación de estudiantes por docente, un valor más alto representa mayor carga docente. Por tanto, el resultado sugiere que, en contextos de mayor violencia estructural, una mayor carga por docente se asocia con una relación más desfavorable sobre los resultados Saber 11. Esta evidencia resalta la importancia de fortalecer la capacidad pedagógica y el acompañamiento docente en territorios de mayor vulnerabilidad.
+
+---
+
 ## Instrucciones para ejecutar el código
 
 1. Descargue las bases de datos siguiendo las instrucciones del archivo fuentes.md ubicado en la carpeta /data de este repositorio. Guarde todos los archivos en una carpeta local de su equipo.
