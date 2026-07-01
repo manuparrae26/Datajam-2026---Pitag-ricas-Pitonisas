@@ -34,21 +34,21 @@ Ver instrucciones detalladas de descarga en [`/data/fuentes.md`](data/fuentes.md
 
 El análisis se desarrolló en ocho etapas documentadas en el script principal:
 
-**Parte 1 — Seguridad:** procesamiento de los datos del DAI (GeoJSON) y las llamadas al C4 (CSV), consolidados por localidad y año.
+**Parte 1: Seguridad:** procesamiento de los datos del DAI (GeoJSON) y las llamadas al C4 (CSV), consolidados por localidad y año.
 
-**Parte 2 — Educación:** procesamiento de los seis archivos del DANE (matrícula, personal, TIC, intensidad horaria, situación académica y carátula de sede) y los resultados Saber 11 del ICFES.
+**Parte 2: Educación:** procesamiento de los seis archivos del DANE (matrícula, personal, TIC, intensidad horaria, situación académica y carátula de sede) y los resultados Saber 11 del ICFES.
 
-**Parte 3 — Integración:** unión de la base educativa con los datos de seguridad usando el código de localidad como llave territorial.
+**Parte 3: Integración:** unión de la base educativa con los datos de seguridad usando el código de localidad como llave territorial.
 
-**Parte 4 — Variables derivadas:** construcción del índice de violencia estructural (DAI ponderado por gravedad, por 100.000 habitantes), índice de entorno escolar (incidentes C4 relevantes para NNAJ, por 100.000 habitantes), cuadrantes de riesgo territorial, ratios de personal por rol, índice TIC e índice de servicios.
+**Parte 4: Variables derivadas:** construcción del índice de violencia estructural (DAI ponderado por gravedad, por 100.000 habitantes), índice de entorno escolar (incidentes C4 relevantes para NNAJ, por 100.000 habitantes), cuadrantes de riesgo territorial, ratios de personal por rol, índice TIC e índice de servicios.
 
-**Parte 5 — Tasas territoriales:** incorporación de las tasas oficiales de deserción y reprobación por localidad desde los GeoPackages de la SED.
+**Parte 5: Tasas territoriales:** incorporación de las tasas oficiales de deserción y reprobación por localidad desde los GeoPackages de la SED.
 
-**Parte 6 — Regresiones:** estimación de regresiones lineales por bloques. Bloque A: efecto simple de cada predictor territorial sobre el ICFES. Bloque B: mismo efecto controlando por proporciones de estudiantes con discapacidad, desplazados del conflicto y pertenecientes a grupos étnicos.
+**Parte 6: Regresiones:** estimación de regresiones lineales por bloques. Bloque A: efecto simple de cada predictor territorial sobre el ICFES. Bloque B: mismo efecto controlando por proporciones de estudiantes con discapacidad, desplazados del conflicto y pertenecientes a grupos étnicos.
 
-**Parte 7 — Moderaciones:** pruebas de interacción entre cada predictor territorial y cada característica institucional de la sede (jornada, horas académicas, ratios de personal, índice TIC). Se evalúa si las características de la sede amortiguan el efecto negativo del entorno sobre el ICFES.
+**Parte 7: Moderaciones:** pruebas de interacción entre cada predictor territorial y cada característica institucional de la sede (jornada, horas académicas, ratios de personal, índice TIC). Se evalúa si las características de la sede amortiguan el efecto negativo del entorno sobre el ICFES.
 
-**Parte 8 — Exportación:** generación de la base consolidada para Power BI con ICFES predicho, residuos y clasificación de sobre/sub-rendimiento por sede.
+**Parte 8: Exportación:** generación de la base consolidada para Power BI con ICFES predicho, residuos y clasificación de sobre/sub-rendimiento por sede.
 
 ---
 
